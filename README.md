@@ -14,10 +14,10 @@
 ## Featured Projects
 
 ### Rehabit 🌟
-[rehabit.us](https://rehabit.us/)
-Six-featured, multi-agent AI system for navigating life changes featuring Vision Co-Pilot and Journey Co-Pilot
 
-* [Rehabit AM suite](https://github.com/rehabitus)
+Multi-agent AI system for navigating life-Changes featuring the Vision Co-Pilot (Vision Projection System) and the Journey Co-Pilot (Conscious State Management System)
+
+* [Rehabit](https://github.com/rehabitus)
 
 ### BuddyUp
 [github.com/MikeOlaski/BuddyUp](https://github.com/MikeOlaski/BuddyUp)
