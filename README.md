@@ -15,21 +15,19 @@
 
 ### Rehabit 🌟
 [rehabit.us](https://rehabit.us/)
-Six-featured, multi-agent AI system for navigating life changes. Powered by Rehabit-workflow, Rehabit-READ, and legacy AI models.
-* [Rehabit-Frontend](https://github.com/rehabitus/rehabit-frontend) – React frontend with multi-agent integration
-* [Rehabit-Backend](https://github.com/rehabitus/rehabit-backend) – Node.js API for AI actions
+Six-featured, multi-agent AI system for navigating life changes featuring Vision Co-Pilot and Journey Co-Pilot
+
 * [Rehabit AM suite](https://github.com/rehabitus)
 
 ### BuddyUp
 [github.com/MikeOlaski/BuddyUp](https://github.com/MikeOlaski/BuddyUp)
-Challenge buddy platform for accountability and goal achievement. Connects users to support partners for shared purpose.
+WordPress framework Challenge Buddy platform for accountability and goal achievement. Connects users to support partners for shared purpose. Extending BuddyBoss and BuddyPress
 
 ---
 
 ## Expertise
-* **Product Leadership (10+ years)** – AI product management (5+ years)
-* **Growth Engineering** – Content marketing (1M+ views)
-* **Mobile App Retention** – Funnels & AI/ML integration and scaling
+* **Product Leadership (19+ years)** – AI product management (3+ years)
+* **GTM Engineering** – Content marketing (10M+ views)
 
 ---
 
@@ -43,4 +41,4 @@ Relevant repositories across three organizations:
 
 ## Connect
 Learn more or reach out:
-[LinkedIn](https://www.linkedin.com/in/mikeolaski) – [Website](https://ola.ski) – [Email](mailto:mike@mikeolaski.com)
+[LinkedIn](https://www.linkedin.com/in/mikeolaski) – [Website](https://ola.ski) – [Email](mailto:mike+github@mikeolaski.com)
