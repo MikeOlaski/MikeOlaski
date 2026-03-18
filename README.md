@@ -1,13 +1,15 @@
 # Mike Olaski
 
 ---
-### Building AI-powered products at scale | Rehabit Founder | Growth Architect | ex-SaaS PM
+
+### Rehabit Founder · Product & Growth Leader · Full-Stack AI Builder
+
 ---
 
-**Product Leader** specializing in AI/ML integration and scaling revenue platforms. Building transformative AI products that drive growth.
+**Product leader** with 20+ years building web products and go-to-market systems. Currently focused on AI-powered tools for personal transformation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mikeolaski) 
-[![Website](https://img.shields.io/badge/Website-ola.ski-green)](https://ola.ski)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mikeolaski)
+[![Website](https://img.shields.io/badge/Website-ola.ski-green)](https://ola.ski/)
 
 ---
 
@@ -15,30 +17,26 @@
 
 ### Rehabit 🌟
 
-Multi-agent AI system for navigating life-Changes featuring the Vision Co-Pilot (Vision Projection System) and the Journey Co-Pilot (Conscious State Management System)
+AI-powered platform for personal transformation, featuring multi-agent content personalization and a Vision Projection System.
 
-* [Rehabit](https://github.com/rehabitus)
+* [github.com/rehabitus](https://github.com/rehabitus)
 
 ### BuddyUp
-[github.com/MikeOlaski/BuddyUp](https://github.com/MikeOlaski/BuddyUp)
-WordPress framework Challenge Buddy platform for accountability and goal achievement. Connects users to support partners for shared purpose. Extending BuddyBoss and BuddyPress
 
----
+WordPress-based challenge and accountability platform extending BuddyBoss and BuddyPress.
 
-## Expertise
-* **Product Leadership (19+ years)** – AI product management (3+ years)
-* **GTM Engineering** – Content marketing (10M+ views)
+* [github.com/BuddyUpPro](https://github.com/BuddyUpPro)
 
 ---
 
 ## Organizations
-Relevant repositories across three organizations:
-* [Rehabitus](https://github.com/rehabitus) – AI powered projects
-* [IntoGreat.Media](https://github.com/IntoGreatMedia) – WordPress plugins and content strategy
-* [BuddyUpPro](https://github.com/BuddyUpPro) – Challenge buddy platform
+
+* [Rehabitus](https://github.com/rehabitus) – AI-powered personal transformation tools
+* [IntoGreatMedia](https://github.com/IntoGreatMedia) – WordPress plugins and integrated media
+* [BuddyUpPro](https://github.com/BuddyUpPro) – Challenge and accountability platform
 
 ---
 
 ## Connect
-Learn more or reach out:
-[LinkedIn](https://www.linkedin.com/in/mikeolaski) – [Website](https://ola.ski) – [Email](mailto:mike+github@mikeolaski.com)
+
+[LinkedIn](https://www.linkedin.com/in/mikeolaski) · [Website](https://ola.ski/) · [Email](mailto:mike+github@mikeolaski.com)
