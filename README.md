@@ -2,7 +2,7 @@
 
 ---
 
-### Rehabit Founder · Product & Growth Leader · Full-Stack AI Builder
+### Rehabit Founder · Product & Growth Leader · Full-Stack AI Builder · Systems Analyst & Owner
 
 ---
 
